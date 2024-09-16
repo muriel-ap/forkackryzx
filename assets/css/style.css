@@ -27,6 +27,11 @@ body {
     color: #6c757d;
 }
 
+.c-flex {
+    flex:auto;
+}
+
+
 /* Header de las secciones */
 .header-dark {
     color: #343a40;
